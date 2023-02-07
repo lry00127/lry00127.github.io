@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -223,3 +224,15 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+=======
+lsi: false
+safe: true
+source: [your repo's top level directory]
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+>>>>>>> 166690aee0cf312eb20a134d0c128af130edb882
